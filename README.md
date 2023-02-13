@@ -1,7 +1,9 @@
 # Shanghai-STEAMLABs-Hardware-Intern-Projects-Photos
-The photos are the projects I did during my internship at Shanghai STEAMLABs Co. Ltd. These prjects are all based on Arduino Platform.
+The photos are the projects I did during my internship at Shanghai STEAMLABs Co. Ltd. These projects are all based on Arduino Platform.
 
 # Electrical Maze (Gyroscope and 3-D printed structure utilized)
+![Electrical maze](https://user-images.githubusercontent.com/64598074/218583483-d3f5dc64-1ac1-4eec-8e03-5b3fd425621a.jpg)
+![Electrical Maze (2)](https://user-images.githubusercontent.com/64598074/218583497-f323dfcc-fcce-43cb-9d02-ef784666dd2e.jpg)
 
 
 # FPV constructed 
